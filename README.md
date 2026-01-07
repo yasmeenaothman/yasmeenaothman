@@ -98,12 +98,6 @@ I also have experience in **web development**, backend services, and mentoring s
 ## 📌 Featured Projects
 
 - 📱 **Yalla Njoom App** – Flutter app for children to learn Arabic letters, numbers, and basic operations in an engaging and interactive way.
-
-  ![Splash Screen](https://github.com/yasmeenaothman/e_commerce_app/blob/master/screenshots/splash.jpg?raw=true)
-  ![Home Screen](https://github.com/yasmeenaothman/e_commerce_app/blob/master/screenshots/home.jpg?raw=true)
-  ![Cart Screen](https://github.com/yasmeenaothman/e_commerce_app/blob/master/screenshots/cart.jpg?raw=true)
-  ![Sign In Screen](https://github.com/yasmeenaothman/e_commerce_app/blob/master/screenshots/sign_in.jpg?raw=true)
-  
 - 🛒 **E-commerce App (Unit One Company)** – Flutter-based mobile app with multi-method authentication, product listing, cart management, and Stripe payment integration.
 
   <p float="left">
