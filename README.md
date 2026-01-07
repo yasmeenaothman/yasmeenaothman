@@ -83,9 +83,6 @@ I also have experience in **web development**, backend services, and mentoring s
 - 🛒 **E-commerce App (Unit One Company)** – Flutter-based mobile app with multi-method authentication, product listing, cart management, and Stripe payment integration.
 - 📖 **Athkar App** – Flutter app that allows users to read daily athkar, customize text size & color, and share content easily across social media.    
 
-## GitHub Stats
-![Yasmeen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasmeenaothman&show_icons=true&theme=react)
-
 👉 Explore my repositories below 👇
 
 ---
