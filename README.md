@@ -100,7 +100,7 @@ I also have experience in **web development**, backend services, and mentoring s
 - 📱 **Yalla Njoom App** – Flutter app for children to learn Arabic letters, numbers, and basic operations in an engaging and interactive way.
 
 - 🛒 **E-commerce App (Unit One Company)** – Flutter-based mobile app with multi-method authentication, product listing, cart management, and Stripe payment integration.
-  <div style="display:flex; flex-wrap: wrap; gap: 20px;">
+  <div style="display:flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://github.com/yasmeenaothman/e_commerce_app/blob/master/screenshots/splash.jpg?raw=true" width="200" />
     <img src="https://github.com/yasmeenaothman/e_commerce_app/blob/master/screenshots/sign_in.jpg?raw=true" width="200" />
     <img src="https://github.com/yasmeenaothman/e_commerce_app/blob/master/screenshots/home.jpg?raw=true" width="200" />
