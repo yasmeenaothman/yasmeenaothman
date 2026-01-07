@@ -98,14 +98,11 @@ I also have experience in **web development**, backend services, and mentoring s
 ## 📌 Featured Projects
 
 - 📱 **Yalla Njoom App** – Flutter app for children to learn Arabic letters, numbers, and basic operations in an engaging and interactive way.
-- 🛒 **E-commerce App (Unit One Company)** – Flutter-based mobile app with multi-method authentication, product listing, cart management, and Stripe payment integration.
 
-  <p>
-    <img src="https://github.com/yasmeenaothman/e_commerce_app/blob/master/screenshots/splash.jpg?raw=true" width="200 />
-    <img src="https://github.com/yasmeenaothman/e_commerce_app/blob/master/screenshots/home.jpg?raw=true" width="200 />
-    <img src="https://github.com/yasmeenaothman/e_commerce_app/blob/master/screenshots/cart.jpg?raw=true" width="200 />
-    <img src="https://github.com/yasmeenaothman/e_commerce_app/blob/master/screenshots/sign_in.jpg?raw=true" width="200 />
- </p>
+- 🛒 **E-commerce App (Unit One Company)** – Flutter-based mobile app with multi-method authentication, product listing, cart management, and Stripe payment integration.
+  
+ | ![Splash](https://github.com/yasmeenaothman/e_commerce_app/blob/master/screenshots/splash.jpg?raw=true) | ![Home](https://github.com/yasmeenaothman/e_commerce_app/blob/master/screenshots/home.jpg?raw=true) | ![Cart](https://github.com/yasmeenaothman/e_commerce_app/blob/master/screenshots/cart.jpg?raw=true) | ![Sign In](https://github.com/yasmeenaothman/e_commerce_app/blob/master/screenshots/sign_in.jpg?raw=true) |
+
 - 📖 **Athkar App** – Flutter app that allows users to read daily athkar, customize text size & color, and share content easily across social media.    
 
 👉 Explore my repositories below 👇
