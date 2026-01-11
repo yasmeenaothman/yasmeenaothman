@@ -102,14 +102,12 @@ I also have experience in **web development**, backend services, and mentoring s
   <a href="https://mostaql.com/portfolio/1198136-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84">View all screenshots on Mostaql</a>
   
 - 🛒 **E-commerce App (Unit One Company)** – Flutter-based mobile app with multi-method authentication, product listing, cart management, and Stripe payment integration.
-  <div style="display:flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://github.com/yasmeenaothman/e_commerce_app/blob/master/screenshots/splash.jpg?raw=true" width="200" />
-    <img src="https://github.com/yasmeenaothman/e_commerce_app/blob/master/screenshots/sign_in.jpg?raw=true" width="200" />
-    <img src="https://github.com/yasmeenaothman/e_commerce_app/blob/master/screenshots/home.jpg?raw=true" width="200" />
-    <img src="https://github.com/yasmeenaothman/e_commerce_app/blob/master/screenshots/cart.jpg?raw=true" width="200" />
- </div>
+  
+   <a href="https://mostaql.com/portfolio/1197340-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D9%85%D8%AA%D8%AC%D8%B1-%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A">View all screenshots on Mostaql</a>
  
 - 📖 **Athkar App** – Flutter app that allows users to read daily athkar, customize text size & color, and share content easily across social media.    
+
+<a href="https://mostaql.com/portfolio/1199183-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A3%D8%B0%D9%83%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85">View all screenshots on Mostaql</a>
 
 👉 Explore my repositories below 👇
 
